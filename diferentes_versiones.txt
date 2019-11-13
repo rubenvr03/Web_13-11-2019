@@ -1,0 +1,7 @@
+index e9b9869..ec87994 100644
+--- a/readme.md
++++ b/readme.md
+@@ -1,2 +1 @@
+ Hola este es mi primer archivo readme
+-Este es el segundo cambio que hago
+
